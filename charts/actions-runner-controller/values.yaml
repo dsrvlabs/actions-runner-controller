@@ -136,7 +136,7 @@ resources:
   #   memory: 128Mi
 
 nodeSelector:
-  - name: node-1-de
+  name: node-1-de
 
 tolerations: []
 
